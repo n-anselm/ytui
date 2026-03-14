@@ -2,6 +2,8 @@
 
 A terminal UI for downloading videos and audio using yt-dlp.
 
+> _Disclaimer: This application was developed with the assistance of AI using OpenCode. It is provided “as is” without any warranty, express or implied, including but not limited to accuracy, reliability, or fitness for a particular purpose. The developer assumes no responsibility for any consequences resulting from its use. Users should independently verify any information and use the application at their own risk._
+
 ## Features
 
 - Clipboard integration - automatically detects URLs in clipboard
