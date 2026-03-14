@@ -116,7 +116,3 @@ Make sure `notify-send` works:
 notify-send "Test" "Hello"
 ```
 
-## License
-
-MIT
-# ytui
